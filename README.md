@@ -6,7 +6,7 @@
 And also links, [for example this is a link](https://github.com/JuanBeltranP/EXAMPLE) to GitHub website!
 You can see internal links, so you can open internal documents such as your [favourite things](Fav.csv)
 
-#These are the instruction for today's exercise:
+# These are the instruction for today's exercise:
 * First clone the following repository (git@github.com:JuanBeltranP/EXAMPLE.git)
 * Then, type your name and then type your favourite colour, favourite food, favourite fruit and your hometown in the CSV file called Fav.csv
 * Let's do it in the best interactive way!
