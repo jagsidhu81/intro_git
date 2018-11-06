@@ -1,0 +1,4 @@
+These are the instruction for today's exercise:
+First clone the following repository ().
+Then, type your name and then type your favourite colour, favourite food, favourite fruit and your hometown in the CSV file called Fav.csv.
+Let's do it in the best interactive way!
